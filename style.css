@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    padding-top: 50px;
+    margin: 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    background-image: repeating-linear-gradient(to right, #0CCDA3, #C1FCD3);
+}
+
+#list{
+    margin: 0 auto; 
+    width: 300px; 
+    list-style: none;
+    text-align: left;
+} 
+
+.eBtn{
+    background-image: repeating-linear-gradient(to left, #6CC6CB,  #EAE5C9);
+    border-radius: 3px;
+    font-style: oblique;
+    float: right;
+}
+
+.dBtn{
+    background-image: repeating-linear-gradient(to left, #6CC6CB,  #EAE5C9);
+    border-radius: 3px;
+    font-style: oblique;
+    margin-left: 5px;
+    float: right;
+}
+
+button{
+    background-image: repeating-linear-gradient(to left, #6CC6CB,  #EAE5C9);
+    border-radius: 3px;
+    white-space: 1em;
+    font-style: oblique;
+}
+
+
+input{
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+
+h1{
+    font-size: 24pt;
+    font-style: oblique;
+}
+
