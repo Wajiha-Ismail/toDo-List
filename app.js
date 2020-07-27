@@ -27,8 +27,9 @@ function addTask(){
 
     li.appendChild(delBtn);
     li.appendChild(editBtn);
-
+    
 }
+
 
 
 function deleteItem(del){

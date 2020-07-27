@@ -9,8 +9,7 @@ body{
 
 #list{
     margin: 0 auto; 
-    width: 300px; 
-    list-style: none;
+    width: 250px; 
     text-align: left;
 } 
 
@@ -18,28 +17,31 @@ body{
     background-image: repeating-linear-gradient(to left, #6CC6CB,  #EAE5C9);
     border-radius: 3px;
     font-style: oblique;
-    float: right;
 }
 
 .dBtn{
     background-image: repeating-linear-gradient(to left, #6CC6CB,  #EAE5C9);
     border-radius: 3px;
     font-style: oblique;
-    margin-left: 5px;
-    float: right;
+    margin-right: 3px;
+    margin-left: 3px;
 }
 
-button{
+.Btn{
     background-image: repeating-linear-gradient(to left, #6CC6CB,  #EAE5C9);
     border-radius: 3px;
     white-space: 1em;
     font-style: oblique;
+    height: 25px;
+    width: 80px;
 }
 
 
 input{
     border-radius: 3px;
     margin-bottom: 5px;
+    width: 250px;
+    height: 20px;
 }
 
 h1{
